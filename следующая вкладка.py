@@ -30,3 +30,5 @@ try:
 
 finally:
     browser.quit()
+
+    # обновление
