@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-This rep with homework for Stepik
+Этот репозиторий используется для домашних заданий Stapik
